@@ -41,6 +41,7 @@ public class Method
 						System.out.println("The answer is " + Math.pow(number,secondNumber));
 					}
 					
+				System.out.println("good job run again if you want to calculate again ");
 				
 			}
 		public static Double add(Double x, Double y)
